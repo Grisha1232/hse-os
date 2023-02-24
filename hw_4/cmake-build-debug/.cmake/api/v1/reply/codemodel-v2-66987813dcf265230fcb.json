@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "HW_4",
+					"name" : "OS_HW_4",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "HW_4::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-HW_4-Debug-aeae20cd869fc65af3ab.json",
-					"name" : "HW_4",
+					"id" : "OS_HW_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OS_HW_4-Debug-496b18e83aa5b9aca7d5.json",
+					"name" : "OS_HW_4",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/HW_4/cmake-build-debug",
-		"source" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/HW_4"
+		"build" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/OS_HW_4/cmake-build-debug",
+		"source" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/OS_HW_4"
 	},
 	"version" : 
 	{

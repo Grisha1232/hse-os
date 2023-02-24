@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/HW_4/cmake-build-debug"
+			"value" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/OS_HW_4/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/HW_4/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/OS_HW_4/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/HW_4"
+			"value" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/OS_HW_4"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -715,7 +715,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "HW_4"
+			"value" : "OS_HW_4"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -998,7 +998,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "HW_4_BINARY_DIR",
+			"name" : "OS_HW_4_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1007,10 +1007,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/HW_4/cmake-build-debug"
+			"value" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/OS_HW_4/cmake-build-debug"
 		},
 		{
-			"name" : "HW_4_IS_TOP_LEVEL",
+			"name" : "OS_HW_4_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1022,7 +1022,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "HW_4_SOURCE_DIR",
+			"name" : "OS_HW_4_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1031,7 +1031,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/HW_4"
+			"value" : "/home/foxleren/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/GitHub/OS_HW_4"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

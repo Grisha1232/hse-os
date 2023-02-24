@@ -1,0 +1,3 @@
+/home/foxleren/Документы/GitHub/HW_4/cmake-build-debug/CMakeFiles/HW_4.dir
+/home/foxleren/Документы/GitHub/HW_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/foxleren/Документы/GitHub/HW_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
